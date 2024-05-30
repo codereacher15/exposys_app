@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226718641732",
+    "project_id": "exposys-4462c",
+    "storage_bucket": "exposys-4462c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226718641732:android:b7f1c8839a638dd393d611",
+        "android_client_info": {
+          "package_name": "com.example.exposys_internship_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226718641732-f6ovurjdds4j0foruldpdtr3r2b7cadc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNNgsD0HelGaeNL_-yT8AaXePxql91inM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226718641732-f6ovurjdds4j0foruldpdtr3r2b7cadc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
