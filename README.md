@@ -1,6 +1,7 @@
 # exposys_internship_app
 
-A new Flutter project.
+A new Flutter project done in Exposys internship.
+This app is an internship app to apply to various internship domains.
 
 ## Getting Started
 
