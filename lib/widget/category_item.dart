@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 
 class CategoryItem extends StatelessWidget {
   final String title;
-  const CategoryItem(this.title);
+  const CategoryItem(this.title, {super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -31,7 +31,7 @@ class CategoryItem extends StatelessWidget {
             border: Border.all(color: Colors.black)),
         child: Text(
           title,
-          style: Theme.of(context).textTheme.headline6,
+          style: Theme.of(context).textTheme.headlineLarge,
         ),
       ),
     );
